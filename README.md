@@ -60,5 +60,5 @@ python script.py
 - Evaluate on additional adversarial attack methods.
 
 ### Author
-Your Name (Replace with actual name)
+Your Name (William James)
 
